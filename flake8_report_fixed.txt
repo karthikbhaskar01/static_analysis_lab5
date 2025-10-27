@@ -1,0 +1,2 @@
+inventory_system.py:65:1: E303 too many blank lines (3)
+inventory_system.py:195:11: W292 no newline at end of file
